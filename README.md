@@ -107,6 +107,6 @@ All pairing process takes ~14s after you input the setup-code on your iPhone. No
 
 ## Contact
 
-Shibin.AK - [shibin@hexaconlabs.com](mailto:shibin@hexaconlabs.com)
-Hexacon Laboratories - [contact@hexaconlabs.com](mailto:contact@hexaconlabs.com)
-Project Link: [https://github.com/Hexacon-labs/Apple-HomeKit-ESP8266](https://github.com/Hexacon-labs/Apple-HomeKit-ESP8266)
+* Shibin.AK - [shibin@hexaconlabs.com](mailto:shibin@hexaconlabs.com)
+* Hexacon Laboratories - [contact@hexaconlabs.com](mailto:contact@hexaconlabs.com)
+* Project Link: [https://github.com/Hexacon-labs/Apple-HomeKit-ESP8266](https://github.com/Hexacon-labs/Apple-HomeKit-ESP8266)
