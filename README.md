@@ -9,7 +9,8 @@ This library is built with ESP8266 Arduino Core 2.6.3.
 
 ## Preview
 
-<img src="Images/raw.jpg" alt="Preview">
+<img src="Images/preview1.jpg" alt="Preview1">
+<img src="Images/preview2.jpg" alt="Preview2">
 
 ## Setup code of the example sketch
 
