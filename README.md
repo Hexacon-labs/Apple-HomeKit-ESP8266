@@ -1,9 +1,4 @@
 # Arduino HomeKit ESP8266 
-
-
-[中文说明](translations/README_cn.md) | [Português Brasileiro](translations/README-ptbr.md) | [Русский](translations/README-ru.md)
-
-
 ## Apple HomeKit accessory server library for ESP8266 Arduino
 
 This Arduino library is a native Apple HomeKit accessory implementation for the [ESP8266 Arduino core](https://github.com/esp8266/Arduino), and works without any additional bridges.
