@@ -5,20 +5,13 @@ This Arduino library is a native Apple HomeKit accessory implementation for the 
 
 This project is mainly based on [esp-homekit](https://github.com/maximkulkin/esp-homekit) for [ESP-OPEN-RTOS](https://github.com/SuperHouse/esp-open-rtos).
 
-I ported the RTOS-based implementation of [esp-homekit](https://github.com/maximkulkin/esp-homekit) to the pure Arduino environment, aimed at easy and fast building project using Arduino IDE (or Eclipse with sloeber, PlatformIO).
-
-Enjoy the "one-key" build, "one-key" upload, and work to link various other Arduino libraries with Apple HomeKit!
-
-Here is a [discussion](https://github.com/HomeACcessoryKid/Arduino-HomeKit/issues/1) about the RTOS is required for running Apple HomeKit, and this project is a proof of concept that Apple HomeKit can be implemented and work fine without the RTOS.
-
-This library is built with ESP8266 Arduino Core 2.6.3. Lower versions may compile with errors.
+This library is built with ESP8266 Arduino Core 2.6.3.
 
 For ESP32, see [Arduino-HomeKit-ESP32](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP32). The HomeKit running on ESP32 has a **GREAT PERFORMANCE** which is 10x faster than ESP8266.
 
 ## Preview
 
-![Preview](https://raw.github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266/master/extras/preview.jpg) 
-
+<img src="Images/raw.jpg" alt="Preview">
 
 ## Setup code of the example sketch
 
